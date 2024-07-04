@@ -1,14 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T10:18:21.038Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4iwdht0GF7h7n85wsqPk" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T10:28:20.811Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="RumNDkAyvjT8n2eKnI-s" version="24.6.4" type="github">
   <diagram name="Sayfa -1" id="U_4Pkl_7rX-sTnU0dOA7">
     <mxGraphModel dx="1434" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vOI9cqr_EnJIPSs-Lxci-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vOI9cqr_EnJIPSs-Lxci-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="110" width="310" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="vOI9cqr_EnJIPSs-Lxci-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vOI9cqr_EnJIPSs-Lxci-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="490" y="110" width="580" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="vOI9cqr_EnJIPSs-Lxci-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Kubernetes Master&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="63" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vOI9cqr_EnJIPSs-Lxci-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Kubernetes Node&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=6;" vertex="1" parent="1">
+          <mxGeometry x="675" y="63" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vOI9cqr_EnJIPSs-Lxci-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;etcd&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="100" y="415" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vOI9cqr_EnJIPSs-Lxci-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;kube-scheduler&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="240" y="420" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vOI9cqr_EnJIPSs-Lxci-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;API-Server&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="125" y="240" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vOI9cqr_EnJIPSs-Lxci-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Controller Manager&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
