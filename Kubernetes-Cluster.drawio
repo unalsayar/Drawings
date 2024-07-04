@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T10:17:20.567Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="Jg_OcIZiFtvKi1l1MTWD" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T10:18:21.038Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4iwdht0GF7h7n85wsqPk" version="24.6.4" type="github">
   <diagram name="Sayfa -1" id="U_4Pkl_7rX-sTnU0dOA7">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vOI9cqr_EnJIPSs-Lxci-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="310" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="vOI9cqr_EnJIPSs-Lxci-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="110" width="580" height="450" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
